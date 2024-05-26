@@ -87864,7 +87864,7 @@ o=A.lD(B.bP,A.a([q,r,p,A.pI(k,new A.bw(B.D3,new A.Po(2,2,B.Td,A.ak(s,!0,A.k(s).i
 s=A.bU(A.avS(new A.aj4(l),4,k,B.aE,!0),60,k)
 p=A.bB("Today's Event",k,k,k,A.vQ().$2$fontSize$fontWeight(16,B.Y),k,k)
 r=A.ar8(k,k,k,k,k,k,k,k,k,k,k,k,k,k,new A.cl(A.im(20),B.v),k,k,k,k,k)
-r=A.lt(A.a([p,A.awk(A.bB("See all",k,k,k,A.vQ().$2$fontSize$fontWeight(16,B.Y),k,k),new A.aj5(),r)],n),B.e3,B.a0)
+r=A.lt(A.a([p,A.awk(A.bB("See all",k,k,k,A.vQ().$2$fontSize$fontWeight(14,B.Y),k,k),new A.aj5(),r)],n),B.e3,B.a0)
 p=$.cR().xr
 p=$.a3.ae$.z.h(0,p)
 p.toString
@@ -87878,7 +87878,7 @@ if(q===0)q=1}q=p.dn(0,q)
 q=A.bU(new A.JO(B.Ad,new A.NQ(new A.aj6(l),6,!0,!0,!0,k),k,B.aM,!1,k,k,B.te,!1,k,6,B.X,B.x7,k,B.W,k),q.b*0.85,k)
 p=A.bB("Upcoming Event",k,k,k,A.vQ().$2$fontSize$fontWeight(16,B.Y),k,k)
 m=A.ar8(k,k,k,k,k,k,k,k,k,k,k,k,k,k,new A.cl(A.im(20),B.v),k,k,k,k,k)
-return A.Ne(B.BO,A.abV(!0,A.adj(A.fC(A.a([o,new A.bw(B.D4,s,k),new A.bw(B.f9,r,k),new A.bw(B.ba,q,k),new A.bw(B.f9,A.lt(A.a([p,A.awk(A.bB("See all",k,k,k,A.vQ().$2$fontSize$fontWeight(16,B.Y),k,k),new A.aj7(),m)],n),B.e3,B.a0),k),A.avS(new A.aj8(),3,B.te,B.aM,!0),B.MJ],n),B.bW,B.a6,B.a0)),B.aI,!0),k,k)}}
+return A.Ne(B.BO,A.abV(!0,A.adj(A.fC(A.a([o,new A.bw(B.D4,s,k),new A.bw(B.f9,r,k),new A.bw(B.ba,q,k),new A.bw(B.f9,A.lt(A.a([p,A.awk(A.bB("See all",k,k,k,A.vQ().$2$fontSize$fontWeight(14,B.Y),k,k),new A.aj7(),m)],n),B.e3,B.a0),k),A.avS(new A.aj8(),3,B.te,B.aM,!0),B.MJ],n),B.bW,B.a6,B.a0)),B.aI,!0),k,k)}}
 A.aj3.prototype={
 $2(a,b){var s,r,q,p,o,n=null,m=this.a
 $.bW()
@@ -87897,7 +87897,7 @@ q=s?B.l:B.i
 p=A.im(20)
 o=s?B.l:B.A
 o=A.apT(o,s?1:0)
-return new A.be(a,A.hO(n,A.h_(n,A.jl(A.bB(b,n,n,n,A.vQ().$3$color$fontSize$fontWeight(s?B.i:B.l,14,B.Y),n,n),n,n),B.p,n,n,new A.cS(q,n,o,p,n,n,B.au),n,40,B.m_,n,n,n,r.a*0.16),B.X,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.aj2(m,a),n,n,n),t.tK)},
+return new A.be(a,A.hO(n,A.h_(n,A.jl(A.bB(b,n,n,n,A.vQ().$3$color$fontSize$fontWeight(s?B.i:B.l,12,B.Y),n,n),n,n),B.p,n,n,new A.cS(q,n,o,p,n,n,B.au),n,40,B.m_,n,n,n,r.a*0.16),B.X,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.aj2(m,a),n,n,n),t.tK)},
 $S:486}
 A.aj2.prototype={
 $0(){var s=this.a
